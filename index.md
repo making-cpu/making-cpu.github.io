@@ -10,6 +10,8 @@
 
 （CPU写真）
 
+参加登録はこちらから！[第1回 自作CPUを語る会 - connpass](https://connpass.com/event/278142/)
+
 （参加リンク）
 
 [開催記録](database/)
