@@ -6,9 +6,7 @@
 
 ということで、自作CPUをじっくり語るためのイベントを開催します！
 
-（会場写真）
-
-（CPU写真）
+![](./img/site.JPG)
 
 参加登録は[こちら](https://connpass.com/event/278142/)から！[第1回 自作CPUを語る会 - connpass](https://connpass.com/event/278142/)
 
