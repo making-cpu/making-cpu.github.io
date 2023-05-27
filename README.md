@@ -1,3 +1,3 @@
-# website
+# 自作CPUを語る会
 
-[here](https://making-cpu.github.io/)
+[ここ](https://making-cpu.github.io/)
