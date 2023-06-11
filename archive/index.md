@@ -25,7 +25,7 @@
 
 ### 「ComProcアーキテクチャ解説」（[uchan](https://twitter.com/uchan_nos)）
 
-- スライド：01_04_uchan_nos.pdf
+- スライド：[01_04_uchan_nos.pdf](./01_04_uchan_nos.pdf)
 - 動画：(youtubeリンク)
 
 ## 展示
