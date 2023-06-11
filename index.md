@@ -8,7 +8,9 @@
 
 ![](./img/site.JPG)
 
-参加登録は[こちら](https://connpass.com/event/278142/)から！[第1回 自作CPUを語る会 - connpass](https://connpass.com/event/278142/)
+## 次回：
+
+参加登録 → [第2回 自作CPUを語る会 - connpass](https://connpass.com/event/278142/)
 
 [過去の開催記録](archive/)
 
