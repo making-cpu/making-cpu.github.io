@@ -1,5 +1,17 @@
 # 自作CPUを語る会：アーカイブ
 
+# 第2回 自作CPUを語る会
+
+### 「」（[Kanade]()）
+
+- スライド：[02_01_kanade_k_1228.pdf](./02_01_kanade_k_1228.pdf)
+- 動画：(youtubeリンク)
+
+### 「ロジックICでコンピュータ製作」（[ノグエレ](https://twitter.com/EN_gelou)）
+
+- スライド：[02_02_EN_gelou.pdf](./02_02_EN_gelou.pdf)
+- 動画：(youtubeリンク)
+
 # 第1回 自作CPUを語る会
 
 - [connpass](https://connpass.com/event/278142/)
