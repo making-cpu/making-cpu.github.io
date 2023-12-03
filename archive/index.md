@@ -2,7 +2,7 @@
 
 # 第2回 自作CPUを語る会
 
-### 「」（[Kanade]()）
+### 「実用的ではないが実用的なコンピュータを考える」（[Kanade](https://twitter.com/kanade_k_1228)）
 
 - スライド：[02_01_kanade_k_1228.pdf](./02_01_kanade_k_1228.pdf)
 - 動画：(youtubeリンク)
@@ -10,6 +10,16 @@
 ### 「ロジックICでコンピュータ製作」（[ノグエレ](https://twitter.com/EN_gelou)）
 
 - スライド：[02_02_EN_gelou.pdf](./02_02_EN_gelou.pdf)
+- 動画：(youtubeリンク)
+
+### 「ComProcプロジェクト進捗報告：割込サポート、UARTモジュール内製化、ほか」（[uchan](https://twitter.com/uchan_nos)）
+
+- スライド：[]()
+- 動画：(youtubeリンク)
+
+### 「」（）
+
+- スライド：[]()
 - 動画：(youtubeリンク)
 
 # 第1回 自作CPUを語る会
