@@ -14,10 +14,10 @@
 
 ### 「ComProcプロジェクト進捗報告：割込サポート、UARTモジュール内製化、ほか」（[uchan](https://twitter.com/uchan_nos)）
 
-- スライド：[]()
+- スライド：[02_03_uchan_nos.pdf](./02_03_uchan_nos.pdf)
 - 動画：(youtubeリンク)
 
-### 「」（）
+### 「RISC-Vで低レイヤ？自作CPUのすすめ」（[Kenta IDA](https://twitter.com/ciniml)）
 
 - スライド：[]()
 - 動画：(youtubeリンク)
