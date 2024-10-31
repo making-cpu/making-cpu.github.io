@@ -12,7 +12,8 @@
   - スライド：<!--[03_01_chizu_potato.pdf](./03_01_chizu_potato.pdf)-->
     （[Speaker Deck](https://speakerdeck.com/chizuchizu/bfgadong-kucpuwozuo-ritai-at-di-3hui-cpuwoyu-ruhui)）
 - 「3進CPUを自作する!!!」（[@rikeden_net](https://x.com/rikeden_net)）
-  - スライド：<!--[03_02_rikeden_net.pdf](./03_02_rikeden_net.pdf)-->
+  - スライド：[03_02_rikeden_net.pdf](./03_02_rikeden_net.pdf)
+    （[Docswell](https://www.docswell.com/s/4857820990/51JPW7-2024-06-03-112949/1)）
 - 「(産業の)米づくり環境ご紹介」（[@taichi600730](https://x.com/taichi600730)）
   - スライド：[03_03_taichi600730.pdf](./03_03_taichi600730.pdf)
     （[Google Slides](https://docs.google.com/presentation/d/1RfzJfd0PNT6uFOP8tpxMzac5SWYoboAAiAqh0-OECHw/)）
@@ -32,13 +33,13 @@
 
 ### LT発表
 - 「自作RISC-V CPUのデバッグ手法」（[@kanapipopipo](https://x.com/kanapipopipo)）
-  - スライド：
+  - スライド：[03_LT_kanapipopipo.pdf](./03_LT_kanapipopipo.pdf)
     （[Docswell](https://www.docswell.com/s/2700235/Z8G797-makecpu-3-lt)）
 - 「RISC-V CPUコアのChisel6対応ハマりポイント」（[@ciniml](https://x.com/ciniml)）
-  - スライド：
+  - スライド：[03_LT_ciniml.pdf](./03_LT_ciniml.pdf)
     （[Google Drive](https://drive.google.com/file/d/1ud9jxEUToDSTgf_5NuCicAKyXP4Dd5nx/)）
 - 「Veryl 新しいハードウェア記述言語」（[@dalance1982](https://x.com/dalance1982)）
-  - スライド：
+  - スライド：[03_LT_dalance1982.pdf](./03_LT_dalance1982.pdf)
     （[Speaker Deck](https://speakerdeck.com/dalance/make-cpu-number-3-dalance)）
 
 ## 第2回 自作CPUを語る会
