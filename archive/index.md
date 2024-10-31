@@ -9,7 +9,7 @@
 ### 発表
 
 - 「Brainfuckが動くCPUを作りたい！」（[@chizu_potato](https://x.com/chizu_potato)）
-  - スライド：<!--[03_01_chizu_potato.pdf](./03_01_chizu_potato.pdf)-->
+  - スライド：[03_01_chizu_potato.pdf](./03_01_chizu_potato.pdf)
     （[Speaker Deck](https://speakerdeck.com/chizuchizu/bfgadong-kucpuwozuo-ritai-at-di-3hui-cpuwoyu-ruhui)）
 - 「3進CPUを自作する!!!」（[@rikeden_net](https://x.com/rikeden_net)）
   - スライド：[03_02_rikeden_net.pdf](./03_02_rikeden_net.pdf)
@@ -18,7 +18,7 @@
   - スライド：[03_03_taichi600730.pdf](./03_03_taichi600730.pdf)
     （[Google Slides](https://docs.google.com/presentation/d/1RfzJfd0PNT6uFOP8tpxMzac5SWYoboAAiAqh0-OECHw/)）
 - 「TW4」（[@lemoncmd](https://x.com/lemoncmd)）
-  - スライド：<!--[03_04_lemoncmd.pdf](./03_04_lemoncmd.pdf)-->
+  - スライド：[03_04_lemoncmd.pdf](./03_04_lemoncmd.pdf)
     （[Google Slides](https://docs.google.com/presentation/d/1rTJr_v3NsTocMbiTfFQvhxRC38PBzmWuMPdYi1oUnTU/)）
 
 ### 展示
