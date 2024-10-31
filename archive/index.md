@@ -96,7 +96,14 @@
 
 - 「」（[RegYMM](https:///twitter.com/regymm0)）
 - 「」（[Kenta IDA](https://twitter.com/ciniml)）
-- 「」（[ボタニック](https://twitter.com/botanicfields)）
+- 「モジュール設計によるCPU実装」（[ボタニック](https://twitter.com/botanicfields)）
+  - [@kaitou_ryakuによる動画](https://x.com/kaitou_ryaku/status/1667785573518700549)
+- 「TD8 8bit CPU」（[にちか](https://x.com/lxacas)）
+  - [にちかによる動画](https://x.com/lxacas/status/1667812937699061761)
+- 「手作りプリント基板を使ったリレーコンピュータ」（[Kuon_Aoto](https://x.com/Kuon_Aoto)）
+  - [Kuon_Aotoによる写真](https://x.com/Kuon_Aoto/status/1667796560674181120)
+- 「NAND Only CPU「NLP-16」によるフィボナッチ数列の計算」（[ちぇりーたくあん🍒](https://twitter.com/cherry_takuan)）
+  - [@tomio2480による動画](https://x.com/tomio2480/status/1667776817632284672)
 
 ### LT発表
 
