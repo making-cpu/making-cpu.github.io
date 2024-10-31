@@ -61,7 +61,8 @@
   - スライド：[02_03_uchan_nos.pdf](./02_03_uchan_nos.pdf)
   - 動画：[01:40:51](https://youtu.be/z3vTB7g9m0E?t=6051)
 - 「RISC-Vで低レイヤ？自作CPUのすすめ」（[Kenta IDA](https://twitter.com/ciniml)）
-  - スライド：[]()
+  - スライド：[02_04_ciniml.pdf](./02_04_ciniml.pdf)
+    （[Google Drive](https://drive.google.com/file/d/1OVdfhbqDbcoy8LybBNTGfAoDPsdJcvFe/)）
   - 動画：[02:07:16](https://youtu.be/z3vTB7g9m0E?t=7636)
 
 ## 第1回 自作CPUを語る会
@@ -89,7 +90,7 @@
 ### 展示
 
 - 「」（[RegYMM](https:///twitter.com/regymm0)）
-- 「」（[Kenta IDE](https://twitter.com/ciniml)）
+- 「」（[Kenta IDA](https://twitter.com/ciniml)）
 - 「」（[ボタニック](https://twitter.com/botanicfields)）
 
 ### LT発表
