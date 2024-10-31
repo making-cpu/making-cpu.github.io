@@ -44,40 +44,47 @@
 
 ## 第2回 自作CPUを語る会
 
+- [connpass](https://makecpu.connpass.com/event/287012/)
+- 日時：2023年 12月 3日 13:00~
+- 場所：サイボウズ東京オフィス
+- 動画：[【Live配信】第2回 自作CPUを語る会](https://www.youtube.com/watch?v=z3vTB7g9m0E)
+
+### 発表
+
 - 「実用的ではないが実用的なコンピュータを考える」（[Kanade](https://twitter.com/kanade_k_1228)）
   - スライド：[02_01_kanade_k_1228.pdf](./02_01_kanade_k_1228.pdf)
-  - 動画：(youtubeリンク)
+  - 動画：[00:31:23](https://youtu.be/z3vTB7g9m0E?t=1883)
 - 「ロジックICでコンピュータ製作」（[ノグエレ](https://twitter.com/EN_gelou)）
   - スライド：[02_02_EN_gelou.pdf](./02_02_EN_gelou.pdf)
-  - 動画：(youtubeリンク)
+  - 動画：[00:51:00](https://youtu.be/z3vTB7g9m0E?t=3060)
 - 「ComProcプロジェクト進捗報告：割込サポート、UARTモジュール内製化、ほか」（[uchan](https://twitter.com/uchan_nos)）
   - スライド：[02_03_uchan_nos.pdf](./02_03_uchan_nos.pdf)
-  - 動画：(youtubeリンク)
+  - 動画：[01:40:51](https://youtu.be/z3vTB7g9m0E?t=6051)
 - 「RISC-Vで低レイヤ？自作CPUのすすめ」（[Kenta IDA](https://twitter.com/ciniml)）
   - スライド：[]()
-  - 動画：(youtubeリンク)
+  - 動画：[02:07:16](https://youtu.be/z3vTB7g9m0E?t=7636)
 
 ## 第1回 自作CPUを語る会
 
 - [connpass](https://connpass.com/event/278142/)
 - 日時：2023年 6月 11日 13:00~
 - 場所：サイボウズ東京オフィス
-- 動画：(再生リスト)
+- 動画：[【新・Live配信】第1回 自作CPUを語る会](https://www.youtube.com/watch?v=NUgVnmfoVVY)
 
 ### 発表
 
 - 「リレーでコンピュータを作った話」（[Kanade](https://twitter.com/kanade_k_1228)）
   - スライド：[01_01_kanade_k_1228.pdf](./01_01_kanade_k_1228.pdf)
-  - 動画：(youtubeリンク)
+  - 動画：[00:32:48](https://youtu.be/NUgVnmfoVVY?t=1968)
 - 「NANDによるプロセッサ開発」（[ちぇりーたくあん🍒](https://twitter.com/cherry_takuan)）
   - スライド：[01_02_cherry_takuan.pdf](./01_02_cherry_takuan.pdf)
-  - 動画：(youtubeリンク)
+  - 動画：[00:54:02](https://youtu.be/NUgVnmfoVVY?t=3242)
 - 「リレーコンピュータを作り始めるまで」（[青兎 久遠](https://twitter.com/Kuon_Aoto)）
   - スライド：[01_03_Kuon_Aoto.pdf](./01_03_Kuon_Aoto.pdf)
-  - 動画：(youtubeリンク)
+  - 動画：[01:23:37](https://youtu.be/NUgVnmfoVVY?t=5017)
 - 「ComProcアーキテクチャ解説」（[uchan](https://twitter.com/uchan_nos)）
   - スライド：[01_04_uchan_nos.pdf](./01_04_uchan_nos.pdf)
-  - 動画：(youtubeリンク)
+  - 動画：[01:42:03](https://youtu.be/NUgVnmfoVVY?t=6123)
 
 ### 展示
 
