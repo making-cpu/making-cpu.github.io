@@ -25,11 +25,11 @@
 
 - 「コンパイラとマイコンの自作プロジェクト ComProc の現状（SPI 通信、SD カード、コンパイル時定数計算）」（[uchan](https://twitter.com/uchan_nos)）
 - 「NANDだけで作る自作16bit CPU「NLP-16A」の展示 放射ノイズを使った楽曲演奏とコンパイラ，モニタ等の開発環境の紹介」（[ちぇりーたくあん🍒](https://twitter.com/cherry_takuan)）
-  - 動画 https://x.com/botanicfields/status/1797166587927244969
+  - [@botanicfieldsによる動画](https://x.com/botanicfields/status/1797166587927244969)
 - 「オリジナルアーキテクチャ 自作4bit CPU（TD4）」（[@sudamin](https://x.com/sudamin)）
-  - 写真 https://x.com/kanade_k_1228/status/1797156545979133989
+  - [Kanadeによる写真](https://x.com/kanade_k_1228/status/1797156545979133989)
 - 「Brainf\*ckが動くCPU」（[@chizu_potato](https://x.com/chizu_potato)）
-  - 写真 https://x.com/botanicfields/status/1797172701997728071
+  - [@botanicfieldsによる写真](https://x.com/botanicfields/status/1797172701997728071)
 
 ### LT発表
 - 「自作RISC-V CPUのデバッグ手法」（[@kanapipopipo](https://x.com/kanapipopipo)）
