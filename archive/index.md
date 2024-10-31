@@ -1,5 +1,18 @@
 # 自作CPUを語る会：アーカイブ
 
+## 第3回 自作CPUを語る会
+
+- [connpass](https://makecpu.connpass.com/event/316964/)
+- 日時：2024年 6月 2日 13:00~
+- 場所：サイボウズ東京オフィス
+
+### 発表
+
+-	「Brainfuckが動くCPUを作りたい！」（[@chizu_potato](https://x.com/chizu_potato)）
+-	「3進CPUを自作する!!!」（[@rikeden_net](https://x.com/rikeden_net)）
+-	「(産業の)米づくり環境ご紹介」（[@taichi600730](https://x.com/taichi600730)）
+-	「TW4」（[@lemoncmd](https://x.com/lemoncmd)）
+
 ## 第2回 自作CPUを語る会
 
 - 「実用的ではないが実用的なコンピュータを考える」（[Kanade](https://twitter.com/kanade_k_1228)）
