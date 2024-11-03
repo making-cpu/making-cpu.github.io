@@ -19,7 +19,7 @@
 - 「3進CPUを自作する!!!」（[@rikeden_net](https://x.com/rikeden_net)）
   - スライド：[03_02_rikeden_net.pdf](./03_02_rikeden_net.pdf)
     （[Docswell](https://www.docswell.com/s/4857820990/51JPW7-2024-06-03-112949/1)）
-- 「(産業の)米づくり環境ご紹介」（[@taichi600730](https://x.com/taichi600730)）
+- 「(産業の)米づくり環境ご紹介」（[@taichi600730](https://x.com/taichi600730), [GitHub:taichi-ishitani](https://github.com/taichi-ishitani)）
   - スライド：[03_03_taichi600730.pdf](./03_03_taichi600730.pdf)
     （[Google Slides](https://docs.google.com/presentation/d/1RfzJfd0PNT6uFOP8tpxMzac5SWYoboAAiAqh0-OECHw/)）
 - 「TW4」（[@lemoncmd](https://x.com/lemoncmd)）
