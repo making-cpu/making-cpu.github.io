@@ -7,13 +7,43 @@
 
 ## 第 4 回 自作 CPU を語る会
 
+- [connpass](https://makecpu.connpass.com/event/332857/)
+- 日時：2024 年 12 月 1 日 13:00~
+- 場所：サイボウズ東京オフィス
+
 ### 発表
 
-- 「フラッシュメモリで CPU を創りたい」
-- 「自作 CPU で作る自作パソコン」
-- 「アナログ回路で CPU を作ってみた」（[Yokogoya](https://x.com/electrotelecast)）
+- 「フラッシュメモリで CPU を創りたい」（[@lxacas](https://x.com/lxacas)）
+  - スライド：[04_01_lxacas.pdf](./04_01_lxacas.pdf)
+- 「自作 CPU で作る自作パソコン」（[@uchan_nos](https://x.com/uchan_nos)）
+  - スライド：[04_02_uchan_nos.pdf](./04_02_uchan_nos.pdf)
+    （[Docswell](https://www.docswell.com/s/uchan_nos/KWWL88-dos-on-comproc-make-cpu)）
+- 「アナログ回路で CPU を作ってみた」（[@electrotelecast](https://x.com/electrotelecast)）
   - スライド：[04_03_electrotelecast.pdf](./04_03_electrotelecast.pdf)
-- 「自作 4 ビット CPU ZCU4」
+- 「自作 4 ビット CPU ZCU4」（[@yyhayami](https://x.com/yyhayami)）
+  <!-- - スライド：[04_04_yyhayami.pdf](./04_04_yyhayami.pdf) -->
+
+### 展示
+
+- 「リレーコンピュータの ALU とアキュムレータのみ　インクリメントなど演算しているところのデモンストレーション（予定）」（[@Kuon_Aoto](https://x.com/Kuon_Aoto)）
+- 「自作 CPU で作った自作パソコン ComProc PC を操作していただけます」（[@uchan_nos](https://x.com/uchan_nos)）
+- 「アナログ回路を用いた CPU のプロトタイプ展示」（[@electrotelecast](https://x.com/electrotelecast)）
+- 「FPGA ボードで自作 CPU+Ethernet な展示をします。高レイヤ！」（[@ciniml](https://x.com/ciniml)）
+- 「74HC181 を使った自作 CPU と、NAND-only な自作 CPU（製作中）を展示予定です。」（[@iwamechatronics](https://x.com/iwamechatronics)）
+  - 資料：https://drive.google.com/drive/folders/1h0R6AlZKleIg2tnr9Cxx5g7oUh-XpswX
+- 「自作 3 進 CPU」（[@rikeden_net](https://x.com/rikeden_net)）
+- 「NAND だけで作る CPU＋画面出力等の周辺機器」（[@cherry_takuan](https://x.com/cherry_takuan)）
+
+今回の展示では自作 CPU をネットワークでつなぎ、通信する試みを行いました。その様子は[自作 CPU 同士で通信してみた | うーろぐ](https://uchan.net/ublog.cgi/communicating-between-toy-cpus)にまとまっています。
+
+### LT発表
+
+- 「浮動小数点演算器をつくった話」（[アンドゥー@carbon_hero](https://x.com/carbon_hero)）
+  - スライド：[04_LT_carbon_hero.pdf](./04_LT_carbon_hero.pdf)
+    （[Google Drive](https://drive.google.com/file/d/1Y8QznJA2Wpwruzu3wWdC2JgcyLB7B0ae/)）
+- 「Embedded DSLとして作るアセンブラ」（[@takoeight0821](https://x.com/takoeight0821)）
+  - スライド：[04_LT_takoeight0821.pdf](./04_LT_takoeight0821.pdf)
+    （[Google Drive](https://drive.google.com/file/d/1a8lWouFPnMOimBri-_6J7Vps6zOIdF1c/)）
 
 ## 第 3 回 自作 CPU を語る会
 
