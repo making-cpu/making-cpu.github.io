@@ -21,7 +21,7 @@
 - 「アナログ回路で CPU を作ってみた」（[@electrotelecast](https://x.com/electrotelecast)）
   - スライド：[04_03_electrotelecast.pdf](./04_03_electrotelecast.pdf)
 - 「自作 4 ビット CPU ZCU4」（[@yyhayami](https://x.com/yyhayami)）
-  <!-- - スライド：[04_04_yyhayami.pdf](./04_04_yyhayami.pdf) -->
+  - スライド：[04_04_yyhayami.pdf](./04_04_yyhayami.pdf)
 
 ### 展示
 
