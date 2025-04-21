@@ -5,6 +5,41 @@
 ここで配布している発表資料は、各発表者の方からこのサイトで公開する許諾を得ています。
 個人での閲覧のためにダウンロードすることは構いませんが、それ以外の利用、例えば他サイトに転載するなどは禁止です。
 
+## 第 5 回 自作 CPU を語る会
+
+- [connpass](https://makecpu.connpass.com/event/344817/)
+- 日時：2025 年 4 月 12 日 13:00~
+- 場所：サイボウズ東京オフィス
+
+### 発表
+
+- 自作 CPU 初挑戦枠「秋月 EFINIX FPGA で TD4」（[@noborutkhs](https://x.com/noborutkhs)）
+  - スライド：<!-- [05_01_noborutkhs.pdf](./05_01_noborutkhs.pdf) -->
+    （[Docswell](https://www.docswell.com/s/1701852/ZL16Y7-2025-04-13-141401)）
+- 「自作CPUの上で例のレイトレを動かした話」（[@htkymtks](https://x.com/htkymtks)）
+  - スライド：[05_02_htkymtks.pdf](./05_02_htkymtks.pdf)
+- 「CISC の極み Intel iAPX 432 の紹介」（[@uchan_nos](https://x.com/uchan_nos)）
+  - スライド：[05_03_uchan_nos.pdf](./05_03_uchan_nos.pdf)
+    （[Docswell](https://www.docswell.com/s/uchan_nos/KMX8GL-iapx432)）
+- 「ハイパフォーマンスCPUのつくりかた」（[@dev_msyksphinz](https://x.com/dev_msyksphinz)）
+  <!-- - スライド：[05_04_dev_msyksphinz.pdf](./05_04_dev_msyksphinz.pdf) -->
+
+### 展示
+
+- 「自作 CPU を中心とした『自作パソコン』と、その上で動く DOS やテキストエディタを展示します。自作パソコン上で自作パソコン向けのプログラミングが可能です。」（[@uchan_nos](https://x.com/uchan_nos)）
+- 「自作 RISC-V CPU コアの FPGA 実装」（[@ciniml](https://x.com/ciniml)）
+- 「NAND だけで作る 自作 CPU による MSMP 通信デモ」（[@cherry_takuan](https://x.com/cherry_takuan)）
+- 「平衡三進 CPU の Libra the Processor を今度こそ動かします！」（[@rikeden_net](https://x.com/rikeden_net)）
+- 「自作 CPU と CPU 向け自作電源の展示」（[@EN_gelou](https://x.com/EN_gelou)）
+- 「自作の 1bit と 2bit の CPU を展示します（TD4 がベースとなっています）。入門者向けにこんな作品もあってもいいのではと思い出品してみます。忌憚のないご意見を賜りたいです」（[@Tanuki_Bayashin](https://x.com/Tanuki_Bayashin)）
+- 「自作 1bit CPU で MSMP 通信に挑戦します」（[@nuyomohe](https://x.com/nuyomohe)）
+- 「アナログ電圧で計算する CPU を展示します！」（[@electrotelecast](https://x.com/electrotelecast)）
+
+### LT発表
+
+- 「RISC-V の CSR を自動生成する」（[@taichi600730](https://x.com/taichi600730)）
+  - スライド：[05_LT_taichi600730.pdf](./05_LT_taichi600730.pdf)
+
 ## 第 4 回 自作 CPU を語る会
 
 - [connpass](https://makecpu.connpass.com/event/332857/)
