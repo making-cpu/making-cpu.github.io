@@ -5,6 +5,49 @@
 ここで配布している発表資料は、各発表者の方からこのサイトで公開する許諾を得ています。
 個人での閲覧のためにダウンロードすることは構いませんが、それ以外の利用、例えば他サイトに転載するなどは禁止です。
 
+## 第 6 回 自作 CPU を語る会
+
+- [connpass](https://makecpu.connpass.com/event/353960/)
+- 日時：2025 年 10 月 18 日 13:00~
+- 場所：サイボウズ東京オフィス
+
+### 発表
+
+
+- 「自作CPUの周辺機器製作のススメ」（[@cherry_takuan](https://x.com/cherry_takuan)）
+  - スライド：[06_01_cherry_takuan.pdf](./06_01_cherry_takuan.pdf)
+「自作CPUの周辺機器製作のススメ」 @cherry_takuan
+- 「レジスタ割り当てアルゴリズム」 @uchan_nos
+  - スライド：[06_02_uchan_nos.pdf](./06_02_uchan_nos.pdf)
+    （[Docswell](https://www.docswell.com/s/uchan_nos/56E2DM-register-allocation-algorithm)）
+- 「HC4 - 手のひらサイズの4bitCPU」Shimizu Sena
+  - スライド：[06_03_???.pdf](./06_03_Shimizu_Sena.pdf)
+    （[GitHub](https://github.com/nasu8151/HC4/blob/main/extra/HC4%E7%B4%B9%E4%BB%8B.pdf)）
+
+### 展示
+
+- 「MSMPデバッガの動作デモとBuntanPCの進捗を展示予定です。」（[@uchan_nos](https://x.com/uchan_nos)）
+- 「自作RISC-VコアのFPGA実装」（[@ciniml](https://x.com/ciniml)）
+- 「NAND CPUによるMSMP通信デモとブロック崩しゲーム体験」（[@cherry_takuan](https://x.com/cherry_takuan)）
+- 「命令セット自由選択可能なCPU（FPGA実装）」（KosugiSubaru）
+- 「フラッシュメモリ製コンピュータ」（[@lxacas](https://x.com/lxacas)）
+- 「TD4のverilogをverilatorでC++変換してRaspberry pi pico2で実行」（[@tommie_open](https://x.com/tommie_open)）
+- 「自作4bitCPU、「HC4」（初代、二代目基板）と周辺回路を展示します。」（Shimizu Sena）
+
+<!-- Vimで connpass の展示一覧を変換する置換コマンド
+s/^\([^\t]*\)\t\(.*\)$/- 「\2」（[@\1](https:\/\/x.com\/\1)）/
+
+name	title
+を
+- 「title」（[@name](...)）
+に置換する
+-->
+
+### LT発表
+
+- 「『Verylで作るCPU』を読んでいる」（[@isKenta14](https://x.com/isKenta14)）
+  - スライド：[06_LT_isKenta14.pdf](./06_LT_isKenta14.pdf)
+
 ## 第 5 回 自作 CPU を語る会
 
 - [connpass](https://makecpu.connpass.com/event/344817/)
