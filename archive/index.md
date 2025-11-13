@@ -16,7 +16,6 @@
 
 - 「自作CPUの周辺機器製作のススメ」（[@cherry_takuan](https://x.com/cherry_takuan)）
   - スライド：[06_01_cherry_takuan.pdf](./06_01_cherry_takuan.pdf)
-「自作CPUの周辺機器製作のススメ」 @cherry_takuan
 - 「レジスタ割り当てアルゴリズム」 @uchan_nos
   - スライド：[06_02_uchan_nos.pdf](./06_02_uchan_nos.pdf)
     （[Docswell](https://www.docswell.com/s/uchan_nos/56E2DM-register-allocation-algorithm)）
